@@ -31,7 +31,7 @@ class ViewController: UIViewController {
     var backG:Float = 163/255
     var backB:Float = 171/255
     var backA:Float = 1
-    
+//    
     override func viewDidLoad() {
         super.viewDidLoad()
         // 身體圖案產生
